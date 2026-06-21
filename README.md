@@ -1,8 +1,13 @@
 # 快速上手
 如果你不想要进行任何编译操作，也可以直接使用我编译好的系统镜像。
 ***
-*==**适配NanoPi NEO3的Arch Linux ARM SD卡启动镜像下载**==*
-[直链下载](https://open.666ma.fun:8443) [Github](https://github.com) [百度网盘](https://pan.baidu.com) [夸克网盘](https://pan.quark.com)
+***适配NanoPi NEO3的Arch Linux ARM SD卡启动镜像下载***
+
+[直链下载](https://open.666ma.fun:8443)
+
+[百度网盘](https://pan.baidu.com/s/1Lx47It868f6pIKMhsfFqhw?pwd=406p)
+
+[夸克网盘](https://pan.quark.cn/s/9aafaea72d8c)
 ***
 下载完成后你会得到一个`.img`文件，你可以使用BalenaEtcher、Rufus这类工具软件将这个系统镜像文件写入到你的SD卡中。（请直接跳转到本文的后面[[#Arch Linux ARM系统初始化]]）
 # 背景介绍
