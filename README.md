@@ -3,7 +3,7 @@
 ***
 ***适配NanoPi NEO3的Arch Linux ARM SD卡启动镜像下载***
 
-[直链下载](https://open.666ma.fun:8443)
+[直链下载](https://open.666ma.fun:8443/share/ArchLinuxARM-6.1.63-aarch64-NanoPi-NEO3-sd-20260615.img)
 
 [百度网盘](https://pan.baidu.com/s/1Lx47It868f6pIKMhsfFqhw?pwd=406p)
 
