@@ -9,7 +9,9 @@
 
 [夸克网盘](https://pan.quark.cn/s/9aafaea72d8c)
 ***
-下载完成后你会得到一个`.img`文件，你可以使用BalenaEtcher、Rufus这类工具软件将这个系统镜像文件写入到你的SD卡中。（请直接跳转到本文的末尾部分：[系统初始化](#arch-linux-arm系统初始化)）
+下载完成后你会得到一个`.img`文件，你可以使用BalenaEtcher、Rufus这类工具软件将这个系统镜像文件写入到你的SD卡中。
+
+**（请直接跳转到本文的末尾部分：[系统初始化](#arch-linux-arm系统初始化)）**
 # 背景介绍
 ## 系统选择
 - FriendlyElec官方仅为NEO3这款硬件提供了有限的定制系统镜像，包含debian、ubuntu、openwrt等等，这类镜像往往内置很多我们日常使用并不需要的工具或软件，在启动时可能占用大量本来就已岌岌可危的板载RAM。
