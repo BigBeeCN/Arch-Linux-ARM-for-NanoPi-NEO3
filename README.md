@@ -5,7 +5,7 @@
 
 [OpenList](https://open.666ma.fun:8443/share/ArchLinuxARM-6.1.63-aarch64-NanoPi-NEO3-sd-20260615.img)
 
-[百度网盘](https://pan.baidu.com/s/1Lx47It868f6pIKMhsfFqhw?pwd=406p)
+[百度网盘](https://pan.baidu.com/s/123rH9-wOUfD8_TWvhLNFnw?pwd=406p)
 
 [夸克网盘](https://pan.quark.cn/s/9aafaea72d8c)
 ***
